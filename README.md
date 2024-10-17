@@ -1,4 +1,4 @@
-# RBE/CS549 Computer Vision - AutoPano Project
+# Classical and Deep Learning based Image Stitching
 
 This project presents two different approaches to creating seamless panorama images by stitching two or more images together.
 

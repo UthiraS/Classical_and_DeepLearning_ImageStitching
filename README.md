@@ -42,7 +42,7 @@ python Wrapper.py --NumFeatures 128 --Data Train --ModelType 'UnSup'
 
 ## Achievements
 
-- Improved image stitching quality by 30% using advanced techniques.
+- Improved image stitching quality using advanced techniques.
 - Successfully implemented both classical and deep learning approaches.
 
 ## Additional Notes
